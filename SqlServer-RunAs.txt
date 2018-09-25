@@ -1,0 +1,3 @@
+SQLServer 2017 installed
+runas /noprofile /netonly /user:msdomain1\nhadmin "C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Ssms.exe"
+runas /noprofile /netonly /user:realpointbeta\rpbetanh "C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\PROFILER.EXE"
